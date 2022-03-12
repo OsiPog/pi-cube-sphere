@@ -44,7 +44,7 @@ def main():
             rng_v.c = (0,255,0)
         
         # to avoid a massive slowdown, just stop drawing additional points from this point on
-        if len(all_points)<= 2000: 
+        if len(all_points)<= 4000: 
             all_points.append(rng_v)
         
         for p in all_points: # rotate all points
