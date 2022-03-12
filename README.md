@@ -72,7 +72,7 @@ Now we can use the formulas for the volume of a sphere and for the volume of a c
 
 Applying this to an example with 2 points inside the sphere and 4 points in total we get:
 
-![](https://i.imgur.com/V1RhtqE.png)
+![](https://user-images.githubusercontent.com/87434959/158030407-e4fe0dd4-f41d-4591-9dff-b3d64d8d4948.png)
 
 ![](https://user-images.githubusercontent.com/87434959/158024354-79c0e5dd-d768-459c-9fa8-82eebd982d4b.png)
 
