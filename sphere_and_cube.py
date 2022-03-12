@@ -11,6 +11,7 @@ def main():
     
     title_text = font_title.render('3-dimensional "Monte Carlo" method to approximate Pi', False, (0,0,0))
     approx_text = font_text.render(f"points in sphere / all points * 6 =", False, (0,0,0))
+    closest_approx_text = font_text.render("closest approximation so far:", False, (100,0,0))
     best_approx_text = font_title.render("0", False, (100,0,0))
     
     r = 0 # rotation variable
@@ -67,8 +68,11 @@ def main():
             
         approx_text = font_text.render(f"points in sphere / all points * 6 = {current_approx}", False, (0,0,0))
 
-        renderer.screen.blit(title_text, (350-title_text.get_width()//2,75-title_text.get_height()//2))
+        renderer.screen.blit(title_text, (  350-title_text.get_width()//2,
+                                            75-title_text.get_height()//2))
         renderer.screen.blit(approx_text, (100,600))
+        renderer.screen.blit(closest_approx_text, ( 350-closest_approx_text.get_width()//2,
+                                                    640-closest_approx_text.get_height()//2))
         renderer.screen.blit(best_approx_text, (350-best_approx_text.get_width()//2,650))
         
         
