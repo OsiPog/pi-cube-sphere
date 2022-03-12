@@ -4,7 +4,7 @@
 ##  Demonstration
 https://youtu.be/STZtSVNZxlg
 
-The program uses SM3DWFRPG (Super Minimal 3D Wireframe Renderer in Pygame) you can't find the documentation to that [here](about:blank)
+The program uses SM3DWFRPG (Super Minimal 3D Wireframe Renderer in Pygame) you can find the documentation to that [here](https://github.com/OsiPog/SM3DWFRPG)
 
 ## Try it yourself!
 
