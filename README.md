@@ -1,7 +1,7 @@
 # 3-dimensional "Monte Carlo" method to approximate Pi
 *My contribution to the Pi-Day 2022*
 
-##  Demonstration and Explaination
+##  Demonstration and Explanation
 https://youtu.be/VizcvCPUoo4
 
 The program uses SM3DWFRPG (Super Minimal 3D Wireframe Renderer in Pygame) you can find the documentation to that [here](https://github.com/OsiPog/SM3DWFRPG)
