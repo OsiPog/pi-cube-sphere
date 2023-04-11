@@ -1,4 +1,4 @@
-from SM3DWFRPG import *
+from SM3DWFRPG.SM3DWFRPG import *
 
 
 def main():
