@@ -2,9 +2,13 @@
 *My contribution to the Pi-Day 2022*
 
 ##  Demonstration
-https://i.imgur.com/4j4lNz3.mp4
+<video width="70%" controls>
+    <source src="https://i.imgur.com/4j4lNz3.mp4" type="video/mp4"/>
+</video>
 
-The program uses SM3DWFRPG (Super Minimal 3D Wireframe Renderer in Pygame) you can't find the documentation to that [here](about:blank)
+
+
+The program uses SM3DWFRPG (Super Minimal 3D Wireframe Renderer in Pygame) you can find the documentation to that [here](https://github.com/OsiPog/SM3DWFRPG)
 
 ## Try it yourself!
 
